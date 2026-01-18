@@ -1,7 +1,7 @@
 import React from "react";
 
 const ProjectsCom = () => {
-  return <div>projectsCom</div>;
+  return <div>Projects Com</div>;
 };
 
 export default ProjectsCom;
